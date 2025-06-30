@@ -4,7 +4,8 @@ slivnay1965@gmail.com
 Бэкенд разработчик, в последнее время пишу на Python. Наиболее интересны бэкенд комплексных продуктов, в т.ч. развернутых в облаке.
 
 Языки(в порядке владения): Python, C#, Java
-Технологии: Postgres, Docker, Django, RestAPI, Swagger, Kubernetes, PyQT, PyTorch, Scikit-learn. Работал с фреймворками Odoo, Selenium.
+Уверенное владение: Postgres, Docker, Django, RestAPI, Swagger,  PyQT, Django Ninja, PyJWT, Pydantic, PyTorch, Scikit-learn, Torch, Dash Cytoscape
+Работал с Odoo, Selenium, Kubernetes, asyncio, aiohttp, CUDA
 Стараюсь развиваться в системной аналитике.
 Другое: Машинное обучение и немножко геймдизайна.
 
