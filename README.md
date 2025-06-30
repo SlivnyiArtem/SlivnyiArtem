@@ -41,7 +41,7 @@ slivnay1965@gmail.com
  https://gitlab.com/Flambergsman/pythonbackend2023 
  2) погодный телеграм-бот на Java
  https://github.com/SlivnyiArtem/TelegramWeatherBot
- 3) Многопоточный Веб-краулер по википедии
+ 3) Многопроцессорный Веб-краулер по википедии
  и скрапер по хабру:
  https://github.com/SlivnyiArtem/WebCraulerPy/tree/main
  https://github.com/SlivnyiArtem/PythonHabrScarper/tree/master
