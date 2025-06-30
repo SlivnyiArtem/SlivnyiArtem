@@ -6,6 +6,7 @@ slivnay1965@gmail.com
 Языки(в порядке владения): Python, C#, Java
 Уверенное владение: Postgres, Docker, Django, RestAPI, Swagger,  PyQT, Django Ninja, PyJWT, Pydantic, PyTorch, Scikit-learn, Torch, Dash Cytoscape
 Работал с Odoo, Selenium, Kubernetes, asyncio, aiohttp, CUDA
+
 Стараюсь развиваться в системной аналитике.
 Другое: Машинное обучение и немножко геймдизайна.
 
